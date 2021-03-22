@@ -2,3 +2,4 @@
 
 - xgboost
 - random forest
+- naive bayes
